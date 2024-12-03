@@ -1,0 +1,1 @@
+Proyecto de Machine Learning, en Python, creado con Jupyter Notebook, donde con un DF de precios de cierre , y de Etherum, extraído de Kaggle, y un modelo tipo Sequential, es capaz de predecir precios futuros.
